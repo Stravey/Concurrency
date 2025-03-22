@@ -1,6 +1,6 @@
 package com.strive.juc.ThreadSafe.third_safe;
 
-import com.strive.ThreadSafe.second_safe.MyRunnable;
+import com.strive.juc.ThreadSafe.second_safe.MyRunnable;
 
 public class ThreadDemo {
     public static void main(String[] args) {

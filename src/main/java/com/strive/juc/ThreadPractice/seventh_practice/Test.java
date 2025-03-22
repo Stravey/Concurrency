@@ -1,6 +1,5 @@
 package com.strive.juc.ThreadPractice.seventh_practice;
 
-import com.strive.ThreadPractice.sixth_practice.MyThread_2;
 
 import java.util.ArrayList;
 import java.util.Collections;
